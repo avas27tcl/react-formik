@@ -1,6 +1,6 @@
 # React Formik Tutorial - The Coding Lab
 
-Visit [https://www.youtube.com/channel/UCfqU1zw2n7_dzWskNOep-Ww](The Coding Lab) for video tutorial
+Visit [The Coding Lab](https://www.youtube.com/channel/UCfqU1zw2n7_dzWskNOep-Ww) for video tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
